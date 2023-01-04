@@ -571,13 +571,7 @@ a:hover{
     margin-top: 2cm;
 }
 
-.separadorDeSeccion
-{
-    width: 100%;
-    height: 100px;
-    background-image: url(../img/pattern-burger.webp);
-    background-size: contain;
-}
+
 
 /**footer****/
 footer{
